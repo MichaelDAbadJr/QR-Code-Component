@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 </br>
 <img src="https://github.com/MichaelDAbadJr/assets/blob/main/qr-code-cover.jpg?raw=true" width="500">
 
-link to the backend repository -->
+link to the repository -->
 <a href="https://github.com/MichaelDAbadJr/FoodOrderApp-Backend/" target="_blank">QR-Code Repository</a>
 
 ## My process
