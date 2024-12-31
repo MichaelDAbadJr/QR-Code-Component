@@ -27,9 +27,24 @@ link to the repository -->
 I used the figma design to extract measurements such as the font, text size, text weight, padding, margin, and gaps, etc. 
 
 ### Built with
-- Semantic HTML5 markup
-- Vanilla CSS 
-- Flexbox
+CSS Reset:
+Including margin: 0; padding: 0; box-sizing: border-box; ensures a consistent design across browsers.
+
+Root Variables:
+Using :root for color variables is excellent for scalability and maintainability. It makes it easier to update the theme or reuse colors.
+
+Typography:
+The Google Font Outfit is applied consistently, and the font weights (400 and 700) are preloaded for performance optimization.
+
+Responsive Design:
+Using max-width for the .card-container ensures the design remains responsive across devices.
+The use of min-height: 100svh for the body ensures the card is always vertically centered in the viewport.
+
+Semantic HTML:
+Using <main> for the card container is semantically correct because it represents the main content of the page.
+
+Flexbox:
+Flexbox is used effectively for centering and aligning content, both for the overall layout and within the card.
 
 
 ### What I learned
