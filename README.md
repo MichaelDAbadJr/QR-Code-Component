@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <a href="https://junmike-qr-code.netlify.app/" target="_blank">View Live Website</a>
 </br>
-<img src="https://github.com/MichaelDAbadJr/assets/blob/main/qr-code-cover.jpg?raw=true" width="500">
+<img src="https://raw.githubusercontent.com/MichaelDAbadJr/assets/refs/heads/main/qr-code-cover.png" width="600">
 
 link to the repository -->
 <a href="https://github.com/MichaelDAbadJr/FoodOrderApp-Backend/" target="_blank">QR-Code Repository</a>
